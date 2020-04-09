@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head><b><h1>Rome5809</h1></b></head>
+<body style="background-color:powderblue;font-family:courier;">
+<h2 style="color:white;text-align=center"><hr>
+This is just a practise website made by me for fun.In this website I will post about differnt things I have learned everday and surely thi will be updated atleast weekly. So stay tuned :3
+<hr>
+</h2>
+
+<ol type="A">Things I shall upload about<br>
+<p> [You may click on the name of the topics to directly visit the page]</P>
+<li><button>Vocabulary</button></li>
+<li>Physics formulas and theoroms</li>
+<li>Math Formulas and essentials</li>
+<li>Chemistry</li>
+<li>My html and coding progress</li>
+</ol>
+
+<H2>Vocabulary</H2>
+<tr>
+<th>Wordname</th> <th>Meaning</th>
+</body>
+</html>
